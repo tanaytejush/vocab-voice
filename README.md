@@ -54,3 +54,8 @@ Speech recognition works in Chromium-based browsers (Chrome, Edge). Firefox and 
 ## Privacy
 
 Your voice never leaves your device. The mic input is processed by your browser's own speech recognition and nothing is sent anywhere. There's no backend, no analytics, and no storage — everything resets when you close the tab.
+
+
+---
+
+<sub>Made by [tanaytejush](https://github.com/tanaytejush)</sub>
